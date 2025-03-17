@@ -6,3 +6,11 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# React Authentication Pages
+
+This project contains simple Sign In and Sign Up pages built using React, React Router, and Bootstrap.
+
+## Live Demo
+
+You can view the deployed app here: [Live Demo](https://signin-signup-project.netlify.app/)
